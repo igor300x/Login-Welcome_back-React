@@ -23,9 +23,9 @@ Project Login Welcome back.
 ## :house: About the project
 
 Project developed with React created with Hooks.🚀 <br>
-Contains required name, email, and password, with on-screen character writing  <br>
-and rendering effects created with React Hooks,responsive website created for
-all screen versions including mobile and tablets..
+The site is a traditional login system. Contains required name, email, and password,
+with on-screen character writing and rendering effects created with React Hooks,
+responsive website created for all screen versions including mobile and tablets.
 <br>
 
 ## :rocket: Technologies
